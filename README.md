@@ -26,7 +26,7 @@ technical interview preparation.
 
 ## Progress
 - Day 01: Arrays & Time Complexity ✅
-- Day 02: Prefix Sum & Preprocessing 🔄
+
 
 ## Note
 This repository is intentionally concise.
