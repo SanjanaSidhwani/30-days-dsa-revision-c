@@ -55,7 +55,7 @@ int subarraySum(int* nums, int numsSize, int k) {
     int prefixSum = 0;
     int count = 0;
 
-    // Base case: prefix sum 0 occurs once
+    
     put(map, 0);
 
     for (int i = 0; i < numsSize; i++) {
